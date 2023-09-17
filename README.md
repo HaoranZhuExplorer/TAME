@@ -1,0 +1,5 @@
+# TAME
+
+```
+python train.py
+```
